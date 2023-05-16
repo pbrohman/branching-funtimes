@@ -31,7 +31,7 @@ concurrency:
 jobs:
   # Single deploy job since we're just deploying
   build-site:
-    
+    if: ${{ github.ref == 'ref/heads/preprod' }}
     environment:
       name: preprod
       url: ${{ steps.deployment.outputs.page_url }}
