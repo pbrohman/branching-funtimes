@@ -1,18 +1,3 @@
 # branching-funtimes
 
-I am adding to the readme
-
-Updating the readme again
-
-Adding some more comments
-
-## details
-
-more
-
-adding feet
-
-adding feed 2
-
-
-READ ME UPDATE
+This is a readme file. You can read about stuff in here.
